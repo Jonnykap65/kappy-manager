@@ -1,6 +1,6 @@
 # Kappy Manager
 
-Kappy Manager is a lightweight Windows Task Manager-style desktop application built for this machine with the in-box .NET Framework toolchain.
+Kappy Manager is a lightweight Windows Task Manager-style desktop application originally built for my laptop with the in-box .NET Framework toolchain.
 
 This app was designed to meet the need for a reliable Task Manager replacement on a machine where Windows Task Manager could not run without constantly crashing.
 
